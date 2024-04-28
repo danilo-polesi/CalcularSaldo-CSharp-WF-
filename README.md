@@ -1,6 +1,3 @@
-<b>Apresentação do Repositório<br><br>
-Nome:</b> Calcular Saldo<br><br>
-<!-- <b>Endereço do Website:</b><a href="https://danilo-polesi.github.io/Astronomia/" target="_blanck"> https://danilo-polesi.github.io/Astronomia</a><br><br> -->
 <b>Programação Envolvida:</b><br><br>
 O aplicativo usa os seguintes recursos de programação:<br>
 <b>Windows Forms (WF):</b> Uma estrutura para criar interfaces gráficas de usuário (GUIs) no .NET.<br>
